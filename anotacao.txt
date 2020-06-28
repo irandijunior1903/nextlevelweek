@@ -1,0 +1,11 @@
+Parte de back-end (NodeJs/GitBash)
+
+Criação do package(Json) npm init -y
+
+Instalação dos Módulos(Dependências no package)
+Express: npm install express
+Nodemon(Atualização do servidor, -D é dedicado para o desenvolvimento): npm install nodemon -D
+
+Executando o Servidor (Atalho no package): npm start
+
+Transformando o HTML pra ser dinamnico: npm install nunjucks
